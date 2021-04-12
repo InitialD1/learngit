@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 add merge.
 add hello.py
+fix bug 101.
